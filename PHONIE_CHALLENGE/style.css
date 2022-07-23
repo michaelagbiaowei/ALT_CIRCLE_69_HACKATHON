@@ -135,12 +135,12 @@ body{
     border-radius: 50%;
     right: 10px;
     top: 25px;
-    opacity: 0;
-}
-
-.phone-input:hover img{
     opacity: 1;
 }
+
+/* .phone-input:hover img{
+    opacity: 1;
+} */
 
 .password{
     position: relative;
